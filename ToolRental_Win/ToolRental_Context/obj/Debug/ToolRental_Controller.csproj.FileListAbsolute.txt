@@ -1,0 +1,11 @@
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\bin\Debug\ToolRental_Context.dll
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\bin\Debug\ToolRental_Context.pdb
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\bin\Debug\DBConnection.dll
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\bin\Debug\NLog.dll
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\bin\Debug\DBConnection.pdb
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\bin\Debug\NLog.xml
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\obj\Debug\ToolRental_Controller.csprojAssemblyReference.cache
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\obj\Debug\ToolRental_Controller.csproj.CoreCompileInputs.cache
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\obj\Debug\ToolRental_Controller.csproj.CopyComplete
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\obj\Debug\ToolRental_Context.dll
+C:\Users\Troy\source\repos\ToolRental_Win\ToolRental_Context\obj\Debug\ToolRental_Context.pdb

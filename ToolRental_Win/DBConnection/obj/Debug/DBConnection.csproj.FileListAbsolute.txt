@@ -1,0 +1,45 @@
+I:\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+I:\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\bin\Debug\DBConnection.dll
+I:\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\bin\Debug\DBConnection.pdb
+I:\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.dll
+I:\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\AJ\Documents\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\bin\Debug\DBConnection.dll
+C:\Users\AJ\Documents\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\AJ\Documents\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\AJ\Documents\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\AJ\Documents\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.dll
+C:\Users\AJ\Documents\TAFE\2019\Cert IV\Logan\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\student\source\repos\VideoRental_winForms\DBConnection\bin\Debug\DBConnection.dll
+C:\Users\student\source\repos\VideoRental_winForms\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\student\source\repos\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.csprojResolveAssemblyReference.cache
+C:\Users\student\source\repos\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.dll
+C:\Users\student\source\repos\VideoRental_winForms\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\student\source\repos\VideoRental_winForms\DBConnection\bin\Debug\NLog.dll
+C:\Users\student\source\repos\VideoRental_winForms\DBConnection\bin\Debug\NLog.xml
+E:\2019\Cert IV\Caboolture\VideoRental_winForms_reports\DBConnection\bin\Debug\DBConnection.dll
+E:\2019\Cert IV\Caboolture\VideoRental_winForms_reports\DBConnection\bin\Debug\DBConnection.pdb
+E:\2019\Cert IV\Caboolture\VideoRental_winForms_reports\DBConnection\bin\Debug\NLog.dll
+E:\2019\Cert IV\Caboolture\VideoRental_winForms_reports\DBConnection\bin\Debug\NLog.xml
+E:\2019\Cert IV\Caboolture\VideoRental_winForms_reports\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+E:\2019\Cert IV\Caboolture\VideoRental_winForms_reports\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+E:\2019\Cert IV\Caboolture\VideoRental_winForms_reports\DBConnection\obj\Debug\DBConnection.csproj.CopyComplete
+E:\2019\Cert IV\Caboolture\VideoRental_winForms_reports\DBConnection\obj\Debug\DBConnection.dll
+E:\2019\Cert IV\Caboolture\VideoRental_winForms_reports\DBConnection\obj\Debug\DBConnection.pdb
+E:\TAFE\2019\Semester 2\Cert IV\VideoRental_winForms_reports\DBConnection\bin\Debug\DBConnection.dll
+E:\TAFE\2019\Semester 2\Cert IV\VideoRental_winForms_reports\DBConnection\bin\Debug\DBConnection.pdb
+E:\TAFE\2019\Semester 2\Cert IV\VideoRental_winForms_reports\DBConnection\bin\Debug\NLog.dll
+E:\TAFE\2019\Semester 2\Cert IV\VideoRental_winForms_reports\DBConnection\bin\Debug\NLog.xml
+E:\TAFE\2019\Semester 2\Cert IV\VideoRental_winForms_reports\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+E:\TAFE\2019\Semester 2\Cert IV\VideoRental_winForms_reports\DBConnection\obj\Debug\DBConnection.csproj.CopyComplete
+E:\TAFE\2019\Semester 2\Cert IV\VideoRental_winForms_reports\DBConnection\obj\Debug\DBConnection.dll
+E:\TAFE\2019\Semester 2\Cert IV\VideoRental_winForms_reports\DBConnection\obj\Debug\DBConnection.pdb
+C:\Users\Troy\source\repos\VR_Win\DBConnection\bin\Debug\DBConnection.dll
+C:\Users\Troy\source\repos\VR_Win\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\Troy\source\repos\VR_Win\DBConnection\bin\Debug\NLog.dll
+C:\Users\Troy\source\repos\VR_Win\DBConnection\bin\Debug\NLog.xml
+C:\Users\Troy\source\repos\VR_Win\DBConnection\obj\Debug\DBConnection.csprojAssemblyReference.cache
+C:\Users\Troy\source\repos\VR_Win\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Troy\source\repos\VR_Win\DBConnection\obj\Debug\DBConnection.csproj.CopyComplete
+C:\Users\Troy\source\repos\VR_Win\DBConnection\obj\Debug\DBConnection.dll
+C:\Users\Troy\source\repos\VR_Win\DBConnection\obj\Debug\DBConnection.pdb
